@@ -46,7 +46,7 @@
 		"bullmq": "^5.66.4",
 		"common-tags": "^1.8.2",
 		"dayjs": "^1.11.19",
-		"diff": "^8.0.2",
+		"diff": "^8.0.3",
 		"discord-api-types": "0.38.37",
 		"discord.js": "^14.25.1",
 		"env-cmd": "^11.0.0",
