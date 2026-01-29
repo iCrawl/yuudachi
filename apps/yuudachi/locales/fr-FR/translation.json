@@ -580,6 +580,21 @@
 				"authors_one": "• Auteur: {{count}}",
 				"authors_other": "• Auteurs: {{count}}",
 				"time": "• Durée : {{time}}"
+			},
+			"spam_detection": {
+				"title": "",
+				"channel": "",
+				"type_mentions": "",
+				"type_attachments": "",
+				"type_content": "",
+				"type_interactions": "",
+				"total_mentions": "",
+				"total_attachments": "",
+				"max_duplicates": "",
+				"total_content": "",
+				"total_interactions": "",
+				"action": "",
+				"case_footer": ""
 			}
 		},
 		"anti_raid_nuke": {
