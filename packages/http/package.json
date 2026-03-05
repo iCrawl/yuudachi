@@ -44,7 +44,7 @@
 		"@swc/helpers": "^0.5.18",
 		"discord-api-types": "0.38.37",
 		"discord-verify": "^1.2.0",
-		"fastify": "^5.7.2",
+		"fastify": "^5.8.1",
 		"fastify-raw-body": "^5.0.0"
 	},
 	"devDependencies": {
